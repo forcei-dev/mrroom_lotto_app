@@ -29,7 +29,7 @@ class MainState extends State<Main> {
     return Scaffold(
       body: SafeArea(
         child: WebView(
-          initialUrl: "http://apps.forcei.co.kr/mrroom/mrroom_lotto_ui/",
+          initialUrl: "http://apps.forcei.co.kr/yunki/lotto_ui/",
           javascriptMode: JavascriptMode.unrestricted,
         ),
       ),

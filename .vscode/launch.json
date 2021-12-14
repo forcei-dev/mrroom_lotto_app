@@ -5,12 +5,12 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "BHM_TOC",
+            "name": "lotto",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "BHM_TOC (profile mode)",
+            "name": "lotto (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
